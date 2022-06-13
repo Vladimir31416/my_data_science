@@ -1,2 +1,4 @@
-# my_data_science
-[Угодай число](https://github.com/Vladimir31416/my_data_science/tree/main/project0)
+# Угодай число
+[1 Описание проекта](https://github.com/Vladimir31416/my_data_science/tree/main/project0.README.MD/#Описание проекта)
+## Описание проекта
+Цель проекта это компьютер должен угадать число и вывести среднее число попыток на это
