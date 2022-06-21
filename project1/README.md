@@ -20,7 +20,7 @@
 :arrow_up:[к Оглавлению](https://github.com/Vladimir31416/my_data_science/tree/main/project1/README.md#Оглавление)
 
 ### Какой кейс решаем?
-Нужно написать программу которая угадывает число за минимальное количество попыток
+Нужно написать программу которая угадывает число за минимальное количество попыток. Максимальное число попыток не более 20.
 
 :arrow_up:[к Оглавлению](https://github.com/Vladimir31416/my_data_science/tree/main/project1/README.md#Оглавление)
 
@@ -36,6 +36,6 @@
 :arrow_up:[к Оглавлению](https://github.com/Vladimir31416/my_data_science/tree/main/project1/README.md#Оглавление)
 
 ### Вывод
-Полученый результат работы программы соответствует техническому задания 5 vs 22
+Полученый результат работы программы соответствует техническому задания 5 vs 20
 
 :arrow_up:[к Оглавлению](https://github.com/Vladimir31416/my_data_science/tree/main/project1/README.md#Оглавление)
