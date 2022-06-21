@@ -3,10 +3,15 @@
 ## Оглавление
 
 [1.Описание проекта](https://github.com/Vladimir31416/my_data_science/tree/main/project1/README.md#Описание-проекта)
+
 [2.Какой кейс решаем?](https://github.com/Vladimir31416/my_data_science/tree/main/project1/README.md#Какой-кейс-решаем?)
+
 [3.Краткая информация о данных](https://github.com/Vladimir31416/my_data_science/tree/main/project1/README.md#Краткая-информация-о-данных)
+
 [4.Этапы работы над проектом](https://github.com/Vladimir31416/my_data_science/tree/main/project1/README.md#Этапы-работы-над-проектом)
+
 [5.Результат](https://github.com/Vladimir31416/my_data_science/tree/main/project1/README.md#Результат)
+
 [6.Вывод](https://github.com/Vladimir31416/my_data_science/tree/main/project1/README.md#Вывод)
 
 ### Описание проекта
@@ -17,12 +22,20 @@
 ### Какой кейс решаем?
 Нужно написать программу которая угадывает число за минимальное количество попыток
 
+:arrow_up:[к Оглавлению](https://github.com/Vladimir31416/my_data_science/tree/main/project1/README.md#Оглавление)
+
 ### Краткая информация о данных
 1000 случайных чисел генерируются рандомно и записываются в список. 
 Установлен сид для возпроизводимости
 
+:arrow_up:[к Оглавлению](https://github.com/Vladimir31416/my_data_science/tree/main/project1/README.md#Оглавление)
+
 ### Результат
 Среднее число попыток по результам работы программы равно 5.
 
+:arrow_up:[к Оглавлению](https://github.com/Vladimir31416/my_data_science/tree/main/project1/README.md#Оглавление)
+
 ### Вывод
 Полученый результат работы программы соответствует техническому задания 5 vs 22
+
+:arrow_up:[к Оглавлению](https://github.com/Vladimir31416/my_data_science/tree/main/project1/README.md#Оглавление)
